@@ -1,0 +1,41 @@
+  
+ img {
+    display: inline;
+    align-items: center;
+    padding: 0;
+ } 
+
+ h1 {
+    text-align: center;
+    padding: 50px;
+    
+ }
+  
+  
+  nav {
+    
+    
+    text-align: right;
+    margin-right: 20px; /* Adicionado margem à direita para espaçamento */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+  }
+  
+  li {
+    margin-left: 10px; /* Adicionado espaçamento entre os itens do menu */
+    cursor: pointer;
+    background-color: #3498db;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  li:hover {
+    background-color: #2980b9;
+  }
+  
