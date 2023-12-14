@@ -1,13 +1,19 @@
   
- img {
-    display: inline;
-    align-items: center;
-    padding: 0;
- } 
+ body {
+  background-image: url(./assets/4884273.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+}
+ 
 
  h1 {
-    text-align: center;
+  
     padding: 50px;
+    color: aliceblue;
+
     
  }
   
